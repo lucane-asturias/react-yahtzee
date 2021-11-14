@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-yahtzee-game/static/css/main.cba99a30.chunk.css",
-    "main.js": "/react-yahtzee-game/static/js/main.ef7bc42a.chunk.js",
-    "main.js.map": "/react-yahtzee-game/static/js/main.ef7bc42a.chunk.js.map",
-    "runtime-main.js": "/react-yahtzee-game/static/js/runtime-main.055c327a.js",
-    "runtime-main.js.map": "/react-yahtzee-game/static/js/runtime-main.055c327a.js.map",
-    "static/js/2.8b0e61ad.chunk.js": "/react-yahtzee-game/static/js/2.8b0e61ad.chunk.js",
-    "static/js/2.8b0e61ad.chunk.js.map": "/react-yahtzee-game/static/js/2.8b0e61ad.chunk.js.map",
-    "static/js/3.e11070a6.chunk.js": "/react-yahtzee-game/static/js/3.e11070a6.chunk.js",
-    "static/js/3.e11070a6.chunk.js.map": "/react-yahtzee-game/static/js/3.e11070a6.chunk.js.map",
-    "index.html": "/react-yahtzee-game/index.html",
-    "static/css/main.cba99a30.chunk.css.map": "/react-yahtzee-game/static/css/main.cba99a30.chunk.css.map",
-    "static/js/2.8b0e61ad.chunk.js.LICENSE.txt": "/react-yahtzee-game/static/js/2.8b0e61ad.chunk.js.LICENSE.txt"
+    "main.css": "/react-yahtzee/static/css/main.cba99a30.chunk.css",
+    "main.js": "/react-yahtzee/static/js/main.ef7bc42a.chunk.js",
+    "main.js.map": "/react-yahtzee/static/js/main.ef7bc42a.chunk.js.map",
+    "runtime-main.js": "/react-yahtzee/static/js/runtime-main.648e5ac3.js",
+    "runtime-main.js.map": "/react-yahtzee/static/js/runtime-main.648e5ac3.js.map",
+    "static/js/2.8b0e61ad.chunk.js": "/react-yahtzee/static/js/2.8b0e61ad.chunk.js",
+    "static/js/2.8b0e61ad.chunk.js.map": "/react-yahtzee/static/js/2.8b0e61ad.chunk.js.map",
+    "static/js/3.e11070a6.chunk.js": "/react-yahtzee/static/js/3.e11070a6.chunk.js",
+    "static/js/3.e11070a6.chunk.js.map": "/react-yahtzee/static/js/3.e11070a6.chunk.js.map",
+    "index.html": "/react-yahtzee/index.html",
+    "static/css/main.cba99a30.chunk.css.map": "/react-yahtzee/static/css/main.cba99a30.chunk.css.map",
+    "static/js/2.8b0e61ad.chunk.js.LICENSE.txt": "/react-yahtzee/static/js/2.8b0e61ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.055c327a.js",
+    "static/js/runtime-main.648e5ac3.js",
     "static/js/2.8b0e61ad.chunk.js",
     "static/css/main.cba99a30.chunk.css",
     "static/js/main.ef7bc42a.chunk.js"
