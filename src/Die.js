@@ -13,7 +13,7 @@ import {
 class Die extends Component {
   static defaultProps = {
     numberWords: new Map([[1,faDiceOne],[2,faDiceTwo],[3,faDiceThree],[4,faDiceFour],[5,faDiceFive],[6,faDiceSix]]),
-    val: 5
+    val: 5 //default value to spin the dice
   }
   constructor(props) {
     super(props);
